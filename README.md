@@ -9,7 +9,9 @@
 </br>
 
 <center>
-<img alt="Coding" width="600" src="https://lh3.googleusercontent.com/xwjWlBSrXNQDdz8Kuqj7I0CIkH5iVeNsSZtBijX4qFmGUdYdCSwv6qTDXOf5B84X2hFmVE08nYjwriRyVf232tS3PQKpt6HD0LehqzuAE6HzM06twCVnQ26IyJnHVStHiR_j-dICIAMien2p2RxTBOyfaZ3HCxRqEorf8cTzPiPqwq1LmaPtyKMUyGqKoD7yNJmNfKRMC3NZlM5lYnFmOEFpKeZeZFcF4QA3ocfatRbj583Z9mzw8QMeESwpt6V0vnE6rey16GCsaucs7Ty-fGDRoqQG5w8xoot1yLgcYo7jhZWAMtGC2FB1iaxN7QsT0vZ_Bkualy9hhubjjUCxfmA_ZuoC_TqNUwIVG021jsGRyoWpaEsUO5kJnPtWPtGLUxZQ7fGy-WH3SgReypKq3wwRk3dVW5Glh_RiG8_ZwPzsZkHLLSAex8LwYNAqvAl4Wh_R6CzF9eGLXM-tXzYYLMIr-fv2ztwTOvcUOQl59_R2uQK7mPXmCCOFktTyG5xKRtN62VWzKojdwg-BN3yAU-LYeH4kHchG3TWXbyrP-YgqsC-8-cyN7amm89jhJNErujC79HwNGLV7Gp6BVtgo3EAeqXOdkeQLNVFklIUSWjLGUh4vpQItRp5EZjwb6iLNFkr-bb-zh1wbSyavuwNuyWVUc8rFQOrGwoj3vCYx9j9-VjZaxA6FHcBVa5exqnC-NNL3njh3JgtXxHLEwhR1mjoukwB1ZbeaPJyxz6UfEntG_FAS2sP7BGiMZNHCED4=w1280-h720-no?authuser=0">
+<img alt="" width="400" src="https://photos.app.goo.gl/F3n1eShBJuCz5Fdw6">
+
+![Alt Text](https://github.com/Sahil-Kashyap-in/Sahil-Kashyap-in/blob/main/Sahil%20Kashyap.gif)
 </center>
 
 </br>
@@ -43,18 +45,22 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Kashyap-in&show_icons=true&locale=en&layout=compact" alt="Sahil-Kashyap-in" /></p>
+<br>
 
-</br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil-Kashyap-in&show_icons=true&locale=en&layout=compact" alt="Sahil-Kashyap-in" /></p>
+
+<br>
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Sahil-Kashyap-in&show_icons=true&locale=en" alt="Sahil-Kashyap-in" /></p>
+
+<br>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Kashyap-in&" alt="Sahil-Kashyap-in" /></p>
+
+<br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahil-Kashyap-in&show_icons=true&locale=en" alt="Sahil-Kashyap-in" /></p>
 
-</br>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Kashyap-in&" alt="Sahil-Kashyap-in" /></p>
 
 </br>
 
