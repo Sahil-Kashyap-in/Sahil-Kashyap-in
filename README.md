@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Developing my skills 👨‍💻**
 
-- 🌱 I’m currently learning **JAVA, GIT, LINUX 💻**
+- 🌱 I’m currently learning **Android App Development 💻**
 
 - 🤝 I’m looking for guidance with **Cloud Computing ☁️**
 
